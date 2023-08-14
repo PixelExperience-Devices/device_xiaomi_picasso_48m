@@ -1,0 +1,9 @@
+[
+    {
+      "repository"   : "device_xiaomi_picasso",
+      "target_path"  : "device/xiaomi/picasso",
+      "remote"       : "pixel-devices",
+      "branch"       : "thirteen"
+    }
+  ]
+  
